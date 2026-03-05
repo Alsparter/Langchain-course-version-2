@@ -3,3 +3,9 @@ langchain-core==0.2.27
 langchain-community==0.2.5
 transformer 
 torch
+fastapi==0.110.0
+uvicorn==0.29.0
+faiss-cpu==1.7.4
+sentence-transformers==2.6.1
+pypdf==4.2.0
+rank_bm25
